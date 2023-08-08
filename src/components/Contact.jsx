@@ -17,7 +17,7 @@ function Contact() {
                 <input
                     type="text"
                     name="Email"
-                    placeholder='Name'
+                    placeholder='Email'
                     className='my-2 p-2 bg-transparent border-2 rounded-md focus:outline-none'
                 />
                 <textarea
