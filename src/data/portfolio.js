@@ -11,13 +11,13 @@ export default [
         title: 'Snake Game',
         imgUrl: '\\assets\\Snake Game Asset.png',
         stack: ['JavaScript', 'Canvas'],
-        link: 'https://thehackershideout.com',
+        link: '',
     },
     {
         id: 3,
         title: 'Blog Project',
         imgUrl: '\\assets\\Blog Project.png',
         stack: ['JavaScript', 'MongoDB', 'NodeJS'],
-        link: 'https://youtu.be/A8eegxL82PI',
+        link: '',
     }
 ]
